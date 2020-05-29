@@ -11,7 +11,7 @@ This is whatsapp group/individual chat analyzer .<br>
 This is able analyse all activity happened in whatsapp group and visualize all thing through matplotlib library.
 <br><br><br>
 
-[!Website Click Here](http://rsanalytica.com/chat)
+[Website Click Here](http://rsanalytica.com/chat)
 ## Application:
 1- Count total chat.<br>
 2- Count total chat person wise.<br>
