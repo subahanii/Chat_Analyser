@@ -31,7 +31,7 @@ This script is able to analyse all activity happened in whatsapp group and visua
 1- Python interprater with matplotlib,pandas,NumPy library*<br>
 2- Jupyter NoteBook (optional)<br>
 3- Whatsapp chat data* (.txt file)--->Dataset<br>
-## How to found chat data from Whatsapp:
+## How to find chat data from Whatsapp:
 1-open whatsapp group<br>
 2-tap right-uper corner and goto more option<br>
 3- tap on "Export Chat" <br>
