@@ -32,7 +32,7 @@ This script is able to analyse all the activities happened in a whatsApp group o
 2- Jupyter NoteBook (optional)<br>
 3- whatsApp chat data* (.txt file)--->Dataset<br>
 
-##Environment setup
+## Environment setup
 1) Clone repo to your machine.
    ```sh
    git clone https://github.com/subahanii/Whatsapp-Chat-Analyzer
