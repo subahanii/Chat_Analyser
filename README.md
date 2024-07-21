@@ -24,7 +24,8 @@ This script is able to analyse all activity happened in whatsapp group and visua
 
 ## Images:
 <img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/blob/master/image1.png" height="400" width="900" />
-<img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/edit/master/image1.png" height="400" width="900" />
+<!-- <img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/edit/master/image1.png" height="400" width="900" />  -->
+ <!--"Missing Image"  -->
 
 <br><br><br>
 ## Prerequisites:
